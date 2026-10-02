@@ -6,7 +6,7 @@ const PRODUCTS = [
     price: 52.0,
     rating: 4.7,
     reviews: 118,
-    image: "../serum.jpg",
+    image: "serum.jpg",
     alt: "Bottle of Peavelle Hydrating Serum",
     badges: ["new"],
   },
